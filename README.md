@@ -1,2 +1,2 @@
-# AoC-2019
+# AoC
 My solutions for https://adventofcode.com
